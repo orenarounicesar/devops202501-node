@@ -14,12 +14,13 @@ SOLO TIENE QUE QUITARLE EL DEV Y DEJAR .END
 
 ### AGREGAR LAS VARIABLES DE ENTORNO
 
-### DB_HOST=localhost
-### DB_PORT=5432
-### DB_USER=postgres
-### DB_PASSWORD=postgres
-### DB_DATABASE=db_crud
-### PORT=3002
+#.env
+DB_HOST=localhost
+DB_PORT=5432
+DB_USER=postgres
+DB_PASSWORD=postgres
+DB_DATABASE=db_crud
+PORT=3002
 
 ## 3- PASO
 

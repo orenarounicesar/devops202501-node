@@ -1,6 +1,6 @@
-# Backend Node.js - Grupo A
+# Backend Node - Grupo A
 
-Este proyecto es un backend desarrollado en Node.js que utiliza Docker para la gestión de contenedores y PostgreSQL como base de datos. A continuación, se detallan los pasos necesarios para configurar y ejecutar el proyecto.
+Este proyecto es un backend desarrollado en nestjs que utiliza Docker para la gestión de contenedores y PostgreSQL como base de datos. A continuación, se detallan los pasos necesarios para configurar y ejecutar el proyecto.
 
 ---
 

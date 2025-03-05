@@ -8,15 +8,16 @@ $ cd Backend
 
 ## 2-PASO
 
+### ARCHIVO .env DENTRO DEL PROYECTO
+
 ### AGREGAR LAS VARIABLES DE ENTORNO
 
-#### DB_HOST=localhost
-#### DB_PORT=5432
-#### DB_USER=postgres
-#### DB_PASSWORD=postgres
-#### DB_DATABASE=db_crud
-#### PORT=3002
-
+### DB_HOST=localhost
+### DB_PORT=5432
+### DB_USER=postgres
+### DB_PASSWORD=postgres
+### DB_DATABASE=db_crud
+### PORT=3002
 
 ## 3- PASO
 
